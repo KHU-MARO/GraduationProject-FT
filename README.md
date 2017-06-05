@@ -22,7 +22,7 @@ Arduino Uno 보드와 4채널 릴레이 2개, 전자석 8개를 사용하여 구
 ### 개발스펙  
 
 * IDE: Arduino Sketch (Ver. 1.8.2)  
-* Arduino Mega ADK
+* Arduino Uno  
 	* SoftwareSerail library  
  
 
